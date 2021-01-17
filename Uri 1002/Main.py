@@ -1,4 +1,4 @@
-#@Author Dieg Lins
+#@Author Diego Lins
 
 r = float(input())
 pi = 3.14159
