@@ -1,4 +1,4 @@
-//@Author Diego Lins
+//@Author Diego F Lins 
 
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+//@Author Diego Lins
+
 import java.util.Scanner;
 
 public class Main {
