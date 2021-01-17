@@ -1,4 +1,4 @@
-//@Author Diego Lins
+#@Author Diego Lins
 
 n = float(input())
 
@@ -8,7 +8,7 @@ if (0 <= n <= 1000000.00):
   cin = n%100/50
   vin = n%50/20
   dez = n%100%50%20/10
-  cinco = n%10/5                                        //Diego Lins
+  cinco = n%10/5                                        
   dois = n%5/2
   um = n%100%50%20%10%5%2/1
   cc = n%1/0.5
@@ -27,7 +27,7 @@ if (0 <= n <= 1000000.00):
   print("MOEDAS:")
   print("%d moeda(s) de R$ 1.00" %um)
   print("%d moeda(s) de R$ 0.50" %cc)
-  print("%d moeda(s) de R$ 0.25" %vc)            //Diego Lins
+  print("%d moeda(s) de R$ 0.25" %vc)            
   print("%d moeda(s) de R$ 0.10" %dz)
   print("%d moeda(s) de R$ 0.05" %cincoc)
   print("%d moeda(s) de R$ 0.01" %umc)

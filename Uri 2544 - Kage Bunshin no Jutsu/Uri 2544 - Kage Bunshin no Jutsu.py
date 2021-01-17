@@ -1,4 +1,4 @@
-//@Author Diego Lins
+#@Author Diego Lins
 
 while True:
     try:
